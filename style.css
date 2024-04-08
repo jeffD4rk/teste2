@@ -31,7 +31,7 @@ body {
  .principal {
     max-height: 63.3vh;
     min-height: 63.3vh;
-    background-image: url(img/banner.jpg);  
+    background-image: url(banner.jpg);  
     background-repeat: no-repeat ;
     background-size:contain;
     text-shadow: var(--branco-principal) 0px 0 10px;
@@ -380,11 +380,11 @@ video{
     padding-top: 100%;
     padding-right: 14%;
     background-repeat: no-repeat;
-    background-image: url(img/capa1.webp);
+    background-image: url(capa1.webp);
     background-position-x: center;
     background-size:cover;
   }#banner1:hover{
-    background-image: url(img/capa1.webp);
+    background-image: url(capa1.webp);
     padding-right: 60%;
   }
 
@@ -406,7 +406,7 @@ video{
 
   #banner3{
     background-repeat: no-repeat;
-    background-image: url(img/capa.jpg);
+    background-image: url(capa.jpg);
     background-position-x: center;
     background-size:cover;
     margin: 1%;
